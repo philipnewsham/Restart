@@ -1,0 +1,5 @@
+Font:
+Multicolore - http://www.dafont.com/multicolore.font
+
+SFX:
+Coin - https://www.freesound.org/people/ProjectsU012/sounds/341695/
